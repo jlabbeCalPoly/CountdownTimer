@@ -199,6 +199,6 @@ fun AnimatedTimeIndicator(
    )
 
    LaunchedEffect(Unit) {
-      progress = 0f;
+      progress = 0f
    }
 }
